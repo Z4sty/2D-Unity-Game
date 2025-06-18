@@ -14,8 +14,8 @@ This is a simple side-scrolling game where a bird flies through gaps between obs
 
 [![Watch the demo](https://img.youtube.com/vi/oVNPEn1TGTY/hqdefault.jpg)](https://www.youtube.com/watch?v=oVNPEn1TGTY)
 
-Click the thumbnail to watch a short gameplay demonstration of the project in action.
-
+Click the thumbnail to watch a short gameplay demonstration of the project in action or click on the link
+(https://www.youtube.com/watch?v=oVNPEn1TGTY)
 ---
 
 ## 🧠 What I Learned

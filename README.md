@@ -10,28 +10,40 @@ This is a simple side-scrolling game where a bird flies through gaps between obs
 
 ---
 
-## 🎥 Game Demo
+## 🎥 Game Demos
 
-[![Watch the demo](https://img.youtube.com/vi/oVNPEn1TGTY/hqdefault.jpg)](https://www.youtube.com/watch?v=oVNPEn1TGTY)
+### 🕹️ 2D Flying Bird Game Demo
 
-Click the thumbnail to watch a short gameplay demonstration of the project in action or click on the link
-(https://www.youtube.com/watch?v=oVNPEn1TGTY)
+[![Watch the flying bird demo](https://img.youtube.com/vi/oVNPEn1TGTY/hqdefault.jpg)](https://www.youtube.com/watch?v=oVNPEn1TGTY)
+
+🔗 [Click here to watch on YouTube](https://www.youtube.com/watch?v=oVNPEn1TGTY)
+
+---
+
+### 🧠 Final Year Project – Interactive Fiction on Youth Anxiety
+
+[![Watch the interactive fiction demo](https://img.youtube.com/vi/8PEHhoXIsI4/hqdefault.jpg)](https://www.youtube.com/watch?v=8PEHhoXIsI4)
+
+🔗 [Click here to watch on YouTube](https://www.youtube.com/watch?v=8PEHhoXIsI4)
+
+This was my capstone project where I created an **AI-powered interactive fiction experience** using Claude to simulate the perspective of a youth experiencing anxiety in Singapore's school system.
+
 ---
 
 ## 🧠 What I Learned
 
-Through this project, I gained hands-on experience with:
+Through the Unity project, I gained hands-on experience with:
 
 - **Unity Editor Basics**: Understanding the four key panels – *Hierarchy*, *Scene*, *Inspector*, and *Project*.
 - **GameObjects & Prefabs**: Creating, modifying, and reusing prefabs for obstacles and game elements.
 - **Physics & Collisions**: Applying gravity, handling collisions, and adding Rigidbody2D and Collider components.
-- **Camera Control**: Adjusting the main camera to follow the player and manage the game view.
+- **Camera Control**: Adjusting the main camera to manage the game view.
 - **Scripting in C#**: Writing Unity scripts to:
   - Spawn and destroy objects at timed intervals.
   - Detect off-screen objects and clean them up to manage memory.
   - Handle input and control player movement.
 - **User Interface (UI)**: Implementing basic UI elements like score counters and game over messages.
-- **Game Loop & Flow**: Managing game states and transitions like start, play, and game over.
+- **Game Loop & Flow**: Managing game states and transitions like  play and game over.
 
 ---
 
@@ -43,19 +55,9 @@ The project includes:
 - Prefabs for reusable game objects
 - Basic UI setup for gameplay feedback
 
----
-
-## 🚀 Future Improvements
-
-This project is a stepping stone, and in the future, I hope to:
-- Add animations and sound effects
-- Polish the UI and menu system
-- Optimize performance for mobile deployment
-- Build more complex games using what I’ve learned
-
----
-
 ## 🎓 Credits
 
 - Tutorial by [GameDev.tv – "The Unity Tutorial For Complete Beginners"](https://www.youtube.com/watch?v=XtQMytORBmM)
+- Final Year Project Demo by my group: [Interactive Fiction on Youth Anxiety](https://www.youtube.com/watch?v=8PEHhoXIsI4)
+
 

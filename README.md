@@ -58,6 +58,6 @@ The project includes:
 ## 🎓 Credits
 
 - Tutorial by [GameDev.tv – "The Unity Tutorial For Complete Beginners"](https://www.youtube.com/watch?v=XtQMytORBmM)
-- Final Year Project Demo by my group: [Interactive Fiction on Youth Anxiety](https://www.youtube.com/watch?v=8PEHhoXIsI4)
+- A Demo on my Final Year Project with my group: [Interactive Fiction on Youth Anxiety](https://www.youtube.com/watch?v=8PEHhoXIsI4)
 
 
